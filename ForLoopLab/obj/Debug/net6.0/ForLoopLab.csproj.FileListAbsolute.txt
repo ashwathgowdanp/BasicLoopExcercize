@@ -1,0 +1,15 @@
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ForLoopLab.csproj.AssemblyReference.cache
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ForLoopLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ForLoopLab.AssemblyInfoInputs.cache
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ForLoopLab.AssemblyInfo.cs
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ForLoopLab.csproj.CoreCompileInputs.cache
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\bin\Debug\net6.0\ForLoopLab.exe
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\bin\Debug\net6.0\ForLoopLab.deps.json
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\bin\Debug\net6.0\ForLoopLab.runtimeconfig.json
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\bin\Debug\net6.0\ForLoopLab.dll
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\bin\Debug\net6.0\ForLoopLab.pdb
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ForLoopLab.dll
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\refint\ForLoopLab.dll
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ForLoopLab.pdb
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ForLoopLab.genruntimeconfig.cache
+C:\git\NumberAnalyzer\ForLoopLabApp\ForLoopLab\obj\Debug\net6.0\ref\ForLoopLab.dll
